@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search_city_name">Search for a City</string>
+    <string name="temp">00.00°C</string>
+    <string name="max_temp">MAX:00.00°C</string>
+    <string name="min_temp">MIN:00.00°C</string>
+    <string name="sunny">SUNNY</string>
+    <string name="day">Day</string>
+    <string name="date">18 December 2023</string>
+    <string name="splash_text">Weather Matters,\nWe\'ve Got the Details</string>
+</resources>
